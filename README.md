@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kannthus
 - 👀 I’m interested in Games and OSS
-- 🌱 I’m currently learning Java, C++ and C#
+- 🌱 I’m currently learning Dream Maker (DM)
 - 💞️ I’m looking to collaborate on Anything (But not soon, as I am busy)
-- 📫 How to reach me k@nnthus.uk
+- 📫 How to reach me me@kannthus.com
 
 <!---
 kannthus/kannthus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
