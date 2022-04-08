@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kannthus
 - 👀 I’m interested in Games and OSS
-- 🌱 I’m currently learning Dream Maker (DM)
+- 🌱 I’m currently learning TBA
 - 💞️ I’m looking to collaborate on Anything (But not soon, as I am busy)
 - 📫 How to reach me me@kannthus.com
 
