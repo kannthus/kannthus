@@ -5,7 +5,7 @@
 -->
 <h1 align="center">Hi, welcome to my Github! 👋</h1>
 <p align="center">
-	I'm Kali! an amateur currently working on a variety of projects from: Software development, Games development and Cyber security.
+	I'm an amateur currently working on a variety of projects from: Software development, Games development and Cyber security.
 </p>
 <p align="center">
 <a href="https://kannthus.com">My Website</a> • 
